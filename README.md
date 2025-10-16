@@ -1,46 +1,58 @@
-# 🍺 Sierra Nevada Brewing Co. — Category Insights Analysis
+# 🍺 Category Insights Analysis — Synthetic Retail Data Project
 
-### Overview
-This notebook is a **self-directed analytics project** I created while applying for the **Category Insights Analyst** position at **Sierra Nevada Brewing Company**.  
-It demonstrates how I approach retail and category data using Python, focusing on **sales growth, promotional impact, and market share performance**.
+## 📘 Overview
+This notebook is a **self-directed analytics project** built to demonstrate my ability to analyze **retail and category performance** using Python.  
+It showcases how I approach data-driven storytelling through **sales growth analysis**, **promotional impact measurement**, and **market share visualization**.
 
-All data used in this project is **randomly generated synthetic data** designed to resemble real-world category sales patterns.  
-No confidential or proprietary Sierra Nevada information was used — this is strictly for demonstration and portfolio purposes.
-
----
-
-### 📈 Project Objectives
-
-1. **Identify category and brand growth trends**
-   - Determine which Sierra Nevada SKUs are growing or declining in **units and dollars**.
-   - Measure correlation between volume and value growth to assess pricing/mix dynamics.
-
-2. **Benchmark SNBC vs. category performance**
-   - Compare Sierra Nevada’s sales trends against overall category growth.
-   - Evaluate **market share by region** and visualize month-over-month share changes.
-
-3. **Quantify promotional lift**
-   - Measure **unit and dollar lift** during promoted vs. non-promoted periods.
-   - Identify which SKUs respond most effectively to promotional activity.
+All data used in this project is **randomly generated synthetic data** created to resemble real-world category sales patterns.  
+No proprietary or confidential company information was used — this project is intended solely for **demonstration and portfolio purposes**.
 
 ---
 
-### 🧠 Key Insights (Summary)
+## 📈 Project Objectives
 
-- **Torpedo 12pk Bottles** delivered the strongest promotional response  
-  → **+53% dollar lift, +20% unit lift**, reflecting effective promotions and strong consumer pull.  
-- **Hazy IPA 12pk Bottles** grew **units +22%** but declined **dollars −45%**, indicating deep discounting.  
-- **Colorado, North Carolina, and Texas** were Sierra Nevada’s top-performing markets, each maintaining **50–75% category share**.  
-- **California and Pennsylvania** showed opportunity for improvement due to intermittent sales months.
+1. **Identify category and brand growth trends**  
+   - Evaluate which brands and package types are growing or declining in **units and dollars**  
+   - Measure correlation between volume and value growth to assess **pricing and mix dynamics**
 
----
+2. **Benchmark brand vs. category performance**  
+   - Compare brand sales trends against total category growth  
+   - Analyze **market share by region** and visualize month-over-month share changes
 
-### 🧰 Tools & Libraries
-- **Python** (Pandas, NumPy, Matplotlib)
-- **Jupyter Notebook**
-- **Data Visualization** — line and bar charts, category share tracking
-- **Markdown Storytelling** — executive summaries for each analysis section
+3. **Quantify promotional lift**  
+   - Measure **unit and dollar lift** during promoted vs. non-promoted periods  
+   - Identify which SKUs respond most effectively to promotional activity
 
 ---
 
-### 📂 Repository Structure
+## 🧠 Key Insights (Summary)
+
+- Certain **12-pack bottle SKUs** showed the strongest promotional response  
+  → **+53% dollar lift, +20% unit lift**, indicating effective promotions and strong consumer pull  
+- Some products exhibited **unit growth but dollar declines**, suggesting potential discounting or trade-down effects  
+- **Regional performance varied**, with key markets showing strong category share and others presenting opportunity for improvement
+
+---
+
+## 🧰 Tools & Libraries
+- **Python** → Pandas, NumPy, Matplotlib  
+- **Jupyter Notebook** → interactive data exploration and analysis  
+- **Visualization** → line and bar charts, share trend tracking  
+- **Markdown Storytelling** → executive-style summaries for each analysis section
+
+---
+
+## 📂 Repository Contents
+- `category_insights_analysis.ipynb` → main analysis notebook  
+- `synthetic_sales_data.csv` → randomly generated input dataset  
+- `README.md` → project documentation  
+
+---
+
+## 💡 Purpose
+This project reflects my ongoing work to strengthen skills in **retail analytics**, **category management**, and **data visualization** using Python.  
+It’s part of a growing portfolio of self-directed analytics projects available on my [GitHub profile](https://github.com/ChrisWinge).
+
+
+
+
