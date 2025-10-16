@@ -40,12 +40,6 @@ No proprietary or confidential company information was used — this project is 
 - **Visualization** → line and bar charts, share trend tracking  
 - **Markdown Storytelling** → executive-style summaries for each analysis section
 
----
-
-## 📂 Repository Contents
-- `category_insights_analysis.ipynb` → main analysis notebook  
-- `synthetic_sales_data.csv` → randomly generated input dataset  
-- `README.md` → project documentation  
 
 ---
 
