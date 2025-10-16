@@ -1,0 +1,201 @@
+Date,Account,Market,Brand,Package,Units_Sold,Dollars_Sold,Promoted
+2024-09-01,Safeway,CO,Sierra Nevada Torpedo,6pk Cans,318,1009.53,N
+2024-05-05,Costco,CA,Competitor IPA,12pk Bottles,327,3525.24,Y
+2024-12-08,Publix,CO,Sierra Nevada Hazy IPA,6pk Cans,425,3144.2,Y
+2024-05-19,Costco,TX,Competitor IPA,Single Draft,193,2870.24,N
+2024-03-31,Kroger,TX,Sierra Nevada Hazy IPA,Single Draft,428,4216.18,N
+2024-01-28,Publix,CO,Sierra Nevada Hazy IPA,Single Draft,182,1598.69,N
+2024-01-28,Costco,PA,Competitor Lager,Single Draft,488,947.78,Y
+2024-08-11,Kroger,NC,Sierra Nevada Pale Ale,6pk Cans,412,1739.9,N
+2024-11-17,Whole Foods,CO,Sierra Nevada Hazy IPA,6pk Cans,310,1555.48,N
+2024-04-14,Kroger,PA,Competitor Lager,Single Draft,232,4725.89,N
+2024-10-06,Kroger,NC,Sierra Nevada Torpedo,Single Draft,207,3906.11,N
+2024-09-22,Publix,CO,Sierra Nevada Pale Ale,6pk Cans,385,744.71,N
+2024-08-11,Whole Foods,NC,Sierra Nevada Torpedo,12pk Bottles,246,1283.08,Y
+2024-03-10,Whole Foods,PA,Sierra Nevada Pale Ale,6pk Cans,412,4840.09,N
+2024-05-26,Costco,NC,Competitor Lager,12pk Bottles,21,1716.9,N
+2024-08-04,Costco,CO,Competitor Lager,Single Draft,296,4963.4,Y
+2024-02-04,Whole Foods,PA,Competitor IPA,Single Draft,62,3674.74,N
+2024-07-14,Whole Foods,CO,Competitor Lager,Single Draft,239,274.66,N
+2024-06-02,Publix,TX,Competitor Lager,6pk Cans,269,3274.59,N
+2024-05-12,Kroger,PA,Competitor Lager,6pk Cans,441,1164.17,Y
+2024-08-18,Whole Foods,TX,Competitor Lager,6pk Cans,255,926.03,N
+2024-12-15,Safeway,PA,Competitor IPA,12pk Bottles,285,4575.41,Y
+2024-08-04,Whole Foods,PA,Competitor IPA,12pk Bottles,381,4525.7,N
+2024-09-22,Costco,NC,Sierra Nevada Pale Ale,12pk Bottles,400,1512.45,N
+2024-05-05,Kroger,CO,Competitor IPA,Single Draft,491,3091.0,N
+2024-10-27,Whole Foods,TX,Sierra Nevada Pale Ale,Single Draft,100,1974.92,N
+2024-04-21,Kroger,TX,Sierra Nevada Torpedo,12pk Bottles,487,1030.58,Y
+2024-04-07,Kroger,CA,Competitor IPA,Single Draft,292,2488.12,Y
+2024-09-01,Publix,CA,Competitor Lager,6pk Cans,23,3072.96,Y
+2024-06-16,Kroger,TX,Competitor Lager,Single Draft,322,1838.81,N
+2024-09-22,Costco,CO,Sierra Nevada Torpedo,6pk Cans,440,3762.7,N
+2024-10-27,Costco,CO,Competitor Lager,12pk Bottles,64,4065.7,Y
+2024-05-12,Costco,CA,Sierra Nevada Torpedo,Single Draft,138,475.39,N
+2024-06-30,Publix,CA,Sierra Nevada Torpedo,12pk Bottles,227,4364.94,N
+2024-11-10,Whole Foods,PA,Competitor IPA,12pk Bottles,146,4311.1,Y
+2024-02-25,Whole Foods,CO,Sierra Nevada Pale Ale,6pk Cans,391,4859.13,Y
+2024-05-12,Kroger,CO,Sierra Nevada Torpedo,6pk Cans,238,332.84,Y
+2024-09-29,Safeway,PA,Competitor Lager,6pk Cans,323,2968.16,Y
+2024-09-29,Kroger,CO,Sierra Nevada Torpedo,Single Draft,421,1647.38,Y
+2024-04-21,Safeway,CO,Sierra Nevada Pale Ale,Single Draft,122,2403.32,N
+2024-06-23,Kroger,TX,Sierra Nevada Pale Ale,6pk Cans,362,3327.08,Y
+2024-10-27,Publix,PA,Competitor Lager,12pk Bottles,201,3138.32,Y
+2024-06-16,Whole Foods,CA,Sierra Nevada Torpedo,Single Draft,267,4094.61,N
+2024-01-07,Kroger,CA,Competitor Lager,12pk Bottles,498,1073.51,Y
+2024-01-28,Publix,NC,Sierra Nevada Hazy IPA,12pk Bottles,260,2462.05,Y
+2024-02-11,Publix,NC,Sierra Nevada Torpedo,6pk Cans,174,3521.31,N
+2024-05-19,Whole Foods,NC,Competitor Lager,Single Draft,293,2541.7,N
+2024-06-09,Whole Foods,TX,Competitor IPA,6pk Cans,169,1249.82,N
+2024-10-06,Costco,PA,Competitor Lager,Single Draft,119,4652.37,N
+2024-12-22,Whole Foods,CO,Competitor IPA,12pk Bottles,302,3895.35,Y
+2024-09-22,Costco,CO,Sierra Nevada Pale Ale,6pk Cans,38,1396.49,N
+2024-05-26,Kroger,CO,Sierra Nevada Torpedo,12pk Bottles,203,877.45,N
+2024-02-11,Safeway,NC,Sierra Nevada Hazy IPA,12pk Bottles,95,4910.05,N
+2024-06-09,Publix,PA,Sierra Nevada Pale Ale,Single Draft,356,1263.24,Y
+2024-07-07,Publix,NC,Competitor IPA,6pk Cans,88,3363.07,N
+2024-08-18,Whole Foods,CA,Sierra Nevada Hazy IPA,Single Draft,150,3111.19,N
+2024-08-18,Costco,NC,Sierra Nevada Pale Ale,Single Draft,143,3593.21,N
+2024-10-27,Publix,TX,Sierra Nevada Torpedo,Single Draft,55,1120.52,Y
+2024-12-29,Kroger,CO,Competitor Lager,12pk Bottles,26,1724.74,N
+2024-02-18,Safeway,CO,Sierra Nevada Hazy IPA,Single Draft,75,627.25,Y
+2024-09-01,Publix,CA,Sierra Nevada Hazy IPA,6pk Cans,430,1785.62,N
+2024-12-22,Whole Foods,CA,Competitor IPA,12pk Bottles,25,3064.18,N
+2024-10-06,Publix,TX,Sierra Nevada Pale Ale,6pk Cans,488,1887.19,N
+2024-07-28,Whole Foods,TX,Sierra Nevada Pale Ale,12pk Bottles,247,2090.63,Y
+2024-01-14,Whole Foods,PA,Sierra Nevada Hazy IPA,12pk Bottles,219,2560.22,N
+2024-11-10,Kroger,PA,Sierra Nevada Hazy IPA,6pk Cans,183,723.45,N
+2024-10-27,Whole Foods,CO,Sierra Nevada Pale Ale,12pk Bottles,114,4770.69,N
+2024-03-31,Costco,CO,Competitor Lager,Single Draft,300,1670.0,N
+2024-03-17,Publix,CO,Sierra Nevada Pale Ale,12pk Bottles,420,688.76,N
+2024-04-14,Kroger,CA,Sierra Nevada Torpedo,12pk Bottles,396,715.45,N
+2024-12-22,Whole Foods,NC,Sierra Nevada Pale Ale,12pk Bottles,389,1153.36,N
+2024-11-24,Costco,NC,Sierra Nevada Pale Ale,Single Draft,132,4021.82,Y
+2024-08-04,Publix,PA,Competitor IPA,12pk Bottles,184,797.52,N
+2024-06-02,Safeway,CO,Sierra Nevada Torpedo,12pk Bottles,227,420.6,N
+2024-01-14,Costco,CA,Sierra Nevada Pale Ale,6pk Cans,300,2496.89,Y
+2024-05-19,Whole Foods,NC,Sierra Nevada Hazy IPA,12pk Bottles,259,2047.41,N
+2024-06-30,Publix,PA,Sierra Nevada Hazy IPA,12pk Bottles,277,2354.42,Y
+2024-11-03,Safeway,NC,Sierra Nevada Pale Ale,12pk Bottles,447,443.19,N
+2024-06-02,Safeway,CA,Competitor IPA,6pk Cans,107,2518.52,Y
+2024-11-24,Kroger,CO,Sierra Nevada Pale Ale,Single Draft,432,2359.27,N
+2024-02-18,Publix,CO,Sierra Nevada Torpedo,6pk Cans,499,2511.74,Y
+2024-04-07,Safeway,NC,Sierra Nevada Torpedo,6pk Cans,27,4100.02,N
+2024-05-12,Kroger,CA,Competitor Lager,Single Draft,480,4284.81,N
+2024-11-17,Safeway,NC,Sierra Nevada Pale Ale,12pk Bottles,40,1766.53,N
+2024-04-07,Safeway,CO,Sierra Nevada Pale Ale,Single Draft,88,4295.3,N
+2024-03-31,Safeway,CO,Competitor IPA,6pk Cans,299,369.4,Y
+2024-08-25,Whole Foods,TX,Competitor IPA,6pk Cans,257,2554.98,Y
+2024-04-14,Publix,CA,Sierra Nevada Hazy IPA,6pk Cans,369,297.24,N
+2024-06-16,Costco,CO,Competitor Lager,Single Draft,326,1124.81,N
+2024-06-02,Publix,TX,Sierra Nevada Pale Ale,Single Draft,191,957.98,Y
+2024-01-07,Costco,NC,Sierra Nevada Pale Ale,12pk Bottles,405,339.97,N
+2024-08-04,Kroger,NC,Competitor IPA,6pk Cans,429,4936.71,N
+2024-03-03,Whole Foods,PA,Sierra Nevada Torpedo,Single Draft,418,1917.67,Y
+2024-07-21,Publix,NC,Competitor IPA,6pk Cans,226,3365.09,Y
+2024-12-15,Safeway,TX,Sierra Nevada Hazy IPA,12pk Bottles,334,704.18,Y
+2024-06-30,Whole Foods,CA,Sierra Nevada Pale Ale,Single Draft,205,2441.63,Y
+2024-12-01,Kroger,TX,Competitor IPA,12pk Bottles,350,3579.57,N
+2024-10-06,Costco,NC,Sierra Nevada Torpedo,Single Draft,128,1312.94,N
+2024-12-22,Publix,CO,Sierra Nevada Torpedo,12pk Bottles,34,3338.43,N
+2024-07-14,Publix,PA,Sierra Nevada Hazy IPA,12pk Bottles,341,309.39,N
+2024-02-25,Costco,PA,Competitor IPA,Single Draft,116,1112.48,N
+2024-11-24,Kroger,PA,Sierra Nevada Hazy IPA,Single Draft,409,2102.09,N
+2024-02-25,Costco,CA,Competitor IPA,6pk Cans,47,378.29,N
+2024-09-15,Whole Foods,CA,Sierra Nevada Hazy IPA,6pk Cans,372,1952.86,N
+2024-12-22,Costco,PA,Competitor IPA,12pk Bottles,275,2160.98,Y
+2024-01-14,Safeway,TX,Competitor Lager,12pk Bottles,116,4119.56,Y
+2024-05-05,Kroger,NC,Sierra Nevada Pale Ale,6pk Cans,434,2451.39,Y
+2024-04-14,Whole Foods,CA,Sierra Nevada Hazy IPA,Single Draft,385,4124.24,N
+2024-05-19,Safeway,CO,Competitor IPA,6pk Cans,240,2391.91,N
+2024-06-30,Publix,CA,Competitor Lager,12pk Bottles,202,2837.19,N
+2024-12-15,Safeway,CO,Sierra Nevada Hazy IPA,12pk Bottles,104,2035.05,Y
+2024-10-13,Publix,CA,Competitor Lager,12pk Bottles,236,2240.8,N
+2024-04-28,Whole Foods,CO,Sierra Nevada Pale Ale,Single Draft,34,3554.34,N
+2024-07-07,Costco,PA,Competitor IPA,Single Draft,434,996.03,N
+2024-01-07,Publix,CA,Competitor IPA,Single Draft,164,605.01,N
+2024-09-22,Costco,NC,Competitor Lager,6pk Cans,486,1535.33,N
+2024-04-28,Kroger,NC,Competitor IPA,Single Draft,157,1305.79,N
+2024-05-26,Whole Foods,CA,Sierra Nevada Torpedo,12pk Bottles,195,603.03,N
+2024-02-25,Kroger,CA,Sierra Nevada Hazy IPA,6pk Cans,333,4871.76,N
+2024-09-15,Costco,TX,Sierra Nevada Torpedo,12pk Bottles,353,583.26,N
+2024-11-03,Costco,TX,Sierra Nevada Torpedo,12pk Bottles,231,4980.5,Y
+2024-11-17,Publix,NC,Competitor Lager,12pk Bottles,108,4724.21,N
+2024-01-28,Publix,TX,Competitor Lager,12pk Bottles,99,1399.69,N
+2024-06-09,Costco,CO,Sierra Nevada Pale Ale,Single Draft,271,4359.83,N
+2024-09-15,Safeway,PA,Sierra Nevada Pale Ale,Single Draft,101,3606.61,N
+2024-04-21,Whole Foods,TX,Sierra Nevada Pale Ale,Single Draft,246,2524.77,N
+2024-12-01,Costco,PA,Sierra Nevada Hazy IPA,Single Draft,20,1262.63,N
+2024-09-29,Costco,CO,Competitor IPA,12pk Bottles,33,3618.37,N
+2024-02-04,Safeway,TX,Competitor Lager,6pk Cans,211,3194.47,N
+2024-07-07,Whole Foods,TX,Sierra Nevada Hazy IPA,6pk Cans,73,1335.88,N
+2024-12-29,Publix,PA,Competitor Lager,12pk Bottles,22,1151.18,Y
+2024-06-16,Kroger,PA,Competitor IPA,Single Draft,273,220.58,N
+2024-07-21,Safeway,TX,Sierra Nevada Pale Ale,12pk Bottles,344,2282.23,Y
+2024-09-08,Safeway,CA,Competitor IPA,6pk Cans,385,2493.24,N
+2024-08-11,Kroger,PA,Sierra Nevada Pale Ale,Single Draft,404,3597.92,N
+2024-04-07,Costco,TX,Sierra Nevada Hazy IPA,12pk Bottles,296,978.03,Y
+2024-02-11,Safeway,CA,Competitor IPA,12pk Bottles,250,4636.22,Y
+2024-07-21,Publix,CO,Sierra Nevada Pale Ale,6pk Cans,91,834.71,Y
+2024-03-31,Safeway,CO,Competitor IPA,12pk Bottles,199,1181.2,N
+2024-12-15,Whole Foods,TX,Sierra Nevada Torpedo,6pk Cans,393,517.69,N
+2024-05-12,Costco,PA,Competitor Lager,6pk Cans,82,2168.51,N
+2024-04-28,Whole Foods,CO,Competitor IPA,12pk Bottles,407,2461.23,Y
+2024-04-28,Whole Foods,PA,Competitor Lager,Single Draft,394,1581.32,N
+2024-01-28,Costco,CA,Sierra Nevada Torpedo,Single Draft,74,3152.94,N
+2024-07-14,Publix,CO,Sierra Nevada Torpedo,Single Draft,422,2194.6,N
+2024-07-14,Costco,CA,Competitor IPA,Single Draft,485,2391.97,N
+2024-02-11,Kroger,PA,Sierra Nevada Hazy IPA,6pk Cans,126,4808.64,Y
+2024-06-30,Publix,PA,Sierra Nevada Hazy IPA,Single Draft,499,626.13,N
+2024-11-10,Costco,PA,Competitor Lager,12pk Bottles,292,1998.8,N
+2024-04-14,Whole Foods,CA,Competitor Lager,6pk Cans,426,1114.35,Y
+2024-02-25,Costco,NC,Sierra Nevada Hazy IPA,12pk Bottles,105,4472.8,N
+2024-12-22,Safeway,PA,Sierra Nevada Torpedo,6pk Cans,186,962.21,N
+2024-06-02,Whole Foods,CA,Sierra Nevada Pale Ale,12pk Bottles,149,1784.19,N
+2024-09-22,Whole Foods,CA,Sierra Nevada Torpedo,12pk Bottles,409,1383.87,N
+2024-11-10,Kroger,NC,Competitor IPA,12pk Bottles,197,2803.58,Y
+2024-04-21,Costco,CO,Competitor Lager,Single Draft,410,4760.08,N
+2024-07-28,Kroger,PA,Sierra Nevada Torpedo,Single Draft,264,4673.27,N
+2024-01-14,Safeway,CO,Competitor Lager,6pk Cans,164,3162.94,Y
+2024-09-29,Safeway,CA,Sierra Nevada Pale Ale,12pk Bottles,418,4231.45,N
+2024-09-15,Costco,CA,Sierra Nevada Hazy IPA,12pk Bottles,124,3275.52,N
+2024-10-27,Safeway,CA,Sierra Nevada Torpedo,12pk Bottles,257,2245.55,N
+2024-12-08,Costco,PA,Sierra Nevada Pale Ale,6pk Cans,430,4707.19,N
+2024-07-28,Kroger,CO,Sierra Nevada Torpedo,12pk Bottles,383,1383.53,N
+2024-03-17,Costco,TX,Competitor Lager,6pk Cans,456,3467.32,N
+2024-04-14,Publix,TX,Competitor Lager,Single Draft,275,3192.24,N
+2024-06-02,Kroger,PA,Sierra Nevada Pale Ale,6pk Cans,460,318.57,N
+2024-11-24,Safeway,NC,Sierra Nevada Pale Ale,6pk Cans,464,1185.18,N
+2024-09-01,Whole Foods,TX,Competitor Lager,6pk Cans,154,2937.26,Y
+2024-07-28,Safeway,CO,Competitor IPA,12pk Bottles,398,1434.16,Y
+2024-08-04,Whole Foods,TX,Sierra Nevada Torpedo,6pk Cans,276,3760.23,N
+2024-12-01,Publix,PA,Sierra Nevada Hazy IPA,Single Draft,194,4875.29,N
+2024-07-28,Kroger,CA,Competitor IPA,Single Draft,116,3189.97,Y
+2024-01-07,Kroger,CO,Sierra Nevada Torpedo,Single Draft,266,1454.5,N
+2024-06-23,Whole Foods,TX,Competitor Lager,12pk Bottles,213,1542.79,N
+2024-07-21,Publix,TX,Competitor Lager,Single Draft,277,3087.74,N
+2024-05-12,Publix,CO,Sierra Nevada Hazy IPA,Single Draft,63,4943.45,Y
+2024-05-26,Costco,TX,Sierra Nevada Pale Ale,Single Draft,131,2643.43,Y
+2024-04-14,Costco,CO,Competitor IPA,6pk Cans,220,3541.05,N
+2024-11-17,Costco,PA,Competitor IPA,Single Draft,80,466.92,N
+2024-08-04,Safeway,PA,Sierra Nevada Hazy IPA,12pk Bottles,38,3675.08,N
+2024-04-28,Safeway,TX,Sierra Nevada Pale Ale,Single Draft,443,444.62,Y
+2024-06-23,Safeway,PA,Sierra Nevada Hazy IPA,6pk Cans,320,486.04,N
+2024-10-27,Safeway,PA,Sierra Nevada Hazy IPA,12pk Bottles,333,1749.63,N
+2024-06-02,Publix,NC,Sierra Nevada Pale Ale,12pk Bottles,252,4185.21,N
+2024-04-14,Kroger,TX,Sierra Nevada Pale Ale,12pk Bottles,283,4692.18,N
+2024-10-06,Publix,CO,Sierra Nevada Torpedo,6pk Cans,372,4743.33,Y
+2024-09-08,Kroger,TX,Sierra Nevada Hazy IPA,Single Draft,449,3136.46,N
+2024-03-10,Safeway,CA,Competitor Lager,Single Draft,57,4214.88,Y
+2024-04-21,Costco,NC,Sierra Nevada Pale Ale,6pk Cans,461,1641.27,N
+2024-06-23,Publix,PA,Competitor IPA,6pk Cans,498,4926.4,N
+2024-10-13,Kroger,PA,Sierra Nevada Pale Ale,6pk Cans,144,2734.93,N
+2024-05-19,Costco,CO,Competitor IPA,12pk Bottles,302,2035.32,N
+2024-06-09,Whole Foods,PA,Sierra Nevada Torpedo,6pk Cans,482,625.33,N
+2024-09-15,Kroger,CO,Sierra Nevada Hazy IPA,Single Draft,166,831.11,N
+2024-08-25,Costco,TX,Competitor IPA,Single Draft,425,4843.01,N
+2024-04-14,Costco,CA,Sierra Nevada Hazy IPA,6pk Cans,366,4428.27,N
+2024-09-01,Kroger,TX,Competitor Lager,12pk Bottles,36,4457.49,Y
+2024-09-15,Kroger,CO,Competitor Lager,6pk Cans,224,2389.02,N
+2024-01-14,Costco,PA,Sierra Nevada Hazy IPA,12pk Bottles,118,988.19,Y
+2024-03-17,Kroger,NC,Sierra Nevada Hazy IPA,Single Draft,400,1260.58,N

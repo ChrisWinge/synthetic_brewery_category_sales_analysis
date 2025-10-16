@@ -1,0 +1,51 @@
+Market,Brand,Package,Price_Per_Unit,Promotion_Discount (%),Competitor
+TX,Sierra Nevada Torpedo,12pk Bottles,1.41,20,N
+CO,Sierra Nevada Hazy IPA,Single Draft,1.67,0,N
+TX,Competitor IPA,6pk Cans,2.6,10,Y
+CO,Competitor Lager,Single Draft,2.85,0,Y
+CO,Sierra Nevada Torpedo,12pk Bottles,1.41,0,Y
+CO,Sierra Nevada Torpedo,Single Draft,2.26,10,Y
+CA,Sierra Nevada Pale Ale,12pk Bottles,1.31,0,N
+CA,Competitor IPA,6pk Cans,1.14,15,Y
+TX,Competitor IPA,6pk Cans,2.87,10,N
+NC,Sierra Nevada Torpedo,Single Draft,1.0,10,Y
+CO,Competitor Lager,Single Draft,3.03,20,N
+CO,Sierra Nevada Pale Ale,Single Draft,3.25,15,Y
+TX,Competitor IPA,12pk Bottles,3.39,0,Y
+PA,Competitor Lager,Single Draft,2.88,15,N
+CA,Competitor IPA,12pk Bottles,2.25,0,N
+CA,Sierra Nevada Pale Ale,6pk Cans,2.31,10,N
+CO,Competitor IPA,6pk Cans,1.43,15,Y
+PA,Competitor IPA,6pk Cans,1.99,10,Y
+TX,Sierra Nevada Hazy IPA,Single Draft,1.46,5,N
+PA,Competitor IPA,6pk Cans,3.34,0,N
+CO,Sierra Nevada Hazy IPA,6pk Cans,1.57,5,N
+CA,Competitor Lager,12pk Bottles,2.21,0,Y
+CO,Competitor Lager,Single Draft,2.7,10,N
+CA,Competitor Lager,12pk Bottles,1.02,15,N
+PA,Competitor IPA,12pk Bottles,1.45,5,Y
+TX,Sierra Nevada Hazy IPA,12pk Bottles,2.31,15,Y
+CO,Competitor Lager,Single Draft,3.24,15,N
+TX,Competitor IPA,12pk Bottles,1.13,0,Y
+PA,Sierra Nevada Hazy IPA,Single Draft,2.33,5,N
+TX,Sierra Nevada Torpedo,6pk Cans,3.06,20,Y
+CO,Sierra Nevada Hazy IPA,Single Draft,1.7,0,Y
+TX,Competitor Lager,12pk Bottles,1.27,15,Y
+PA,Sierra Nevada Hazy IPA,12pk Bottles,2.55,10,N
+TX,Sierra Nevada Pale Ale,Single Draft,3.35,0,N
+PA,Competitor IPA,12pk Bottles,1.69,20,Y
+CA,Sierra Nevada Torpedo,Single Draft,1.24,5,N
+NC,Sierra Nevada Torpedo,12pk Bottles,1.76,20,N
+CA,Sierra Nevada Hazy IPA,12pk Bottles,3.39,20,Y
+CO,Competitor IPA,12pk Bottles,1.1,5,N
+NC,Competitor Lager,12pk Bottles,2.03,5,Y
+TX,Competitor Lager,6pk Cans,1.06,10,N
+TX,Competitor IPA,Single Draft,3.38,10,Y
+TX,Competitor IPA,Single Draft,1.44,10,Y
+CA,Sierra Nevada Torpedo,12pk Bottles,2.13,10,N
+PA,Sierra Nevada Hazy IPA,12pk Bottles,3.14,15,N
+NC,Competitor Lager,6pk Cans,2.07,10,N
+CA,Sierra Nevada Torpedo,Single Draft,1.65,0,N
+PA,Sierra Nevada Torpedo,12pk Bottles,3.0,15,N
+CO,Sierra Nevada Torpedo,6pk Cans,2.14,5,Y
+PA,Competitor Lager,6pk Cans,1.28,10,Y
